@@ -99,3 +99,5 @@ startBtn.addEventListener("click", startGame);
 stopBtn.addEventListener("click", stopGame);
 clearBtn.addEventListener("click", clearGrid);
 
+
+document.addEventListener("DOMContentLoaded", startGame);
