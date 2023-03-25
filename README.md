@@ -1,3 +1,5 @@
+[Play Game of Life](./src/index.html)
+
 # The Game of Life
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input from humans. The game is played on an infinite two-dimensional grid of square cells, each of which is in one of two possible states: alive or dead. Every cell interacts with its eight neighbors (the cells that are horizontally, vertically, or diagonally adjacent). At each step in time, the following transitions occur:
